@@ -1,0 +1,27 @@
+/*Custom Google Font 
+https://fonts.google.com/specimen/Poppins?sidebar.open=true&selection.family=Poppins:wght@600|Roboto#about
+*/
+
+
+body{
+    background:#e8ded2;
+}
+hr{
+    background:none;
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-color:#a3d2ca;
+    width: 5%;
+    height: 0px;
+}
+h3{
+    color: #5eaaa8;
+}
+
+h1{
+    color:#056676;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
